@@ -1,5 +1,5 @@
-## Oiii eu sou o Matheus Maschio, Estudante de Ciencia da Computação 
-📚 Estudo na faculdade Imed
+## Oiii eu sou o Matheus Maschio,  
+📚 Estudante de Ciencia da Computação na Faculdade Imed
 🧑‍💼 Atualmente faço um estágio na empresa Compass Uol de Automação com Ruby
 
 <div>
