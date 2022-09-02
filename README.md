@@ -2,8 +2,6 @@
 📚 Estudante de Ciencia da Computação na Faculdade Atitus Educação
 
 
-🧑‍💼 Atualmente faço um estágio na empresa Compass Uol de Automação com Ruby
-
 <div>
   <a href="https://github.com/MatheuslMaschio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuslMaschio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
