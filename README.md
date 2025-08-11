@@ -26,16 +26,16 @@
   <img align="center" alt="Matheus-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-- **[Umentor Test](https://github.com/MatheuslMaschio/Umentor-test)** – CRUD de usuários em tempo real com Laravel + React + Material UI  
+- **[React Native Final Project](https://github.com/MatheuslMaschio/ReactNative-Final-Project)** – Aplicativo móvel completo com TypeScript e React Native  
 - **[Pizzashop Web](https://github.com/MatheuslMaschio/pizzashop-web)** – Dashboard para restaurantes com métricas, pedidos e gestão de status  
 - **[Ignite Timer](https://github.com/MatheuslMaschio/ignite-timer)** – Timer de tarefas com histórico e Context API  
 - **[DevStore](https://github.com/MatheuslMaschio/devstore)** – Loja virtual com React, Next.js e TypeScript  
